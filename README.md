@@ -1,6 +1,6 @@
 ![tests](https://github.com/AbdelrahmanAbdelgwad/haptic/workflows/test/badge.svg)
 # Haptic
-Haptic Shared Control to assist driving
+Shared autonomy using haptic feedback as a driver assistance system
 
 In this repo, we are using the gym environment developed by NotAnyMike. You can find it on this link:
 https://notanymike.github.io/Solving-CarRacing/
